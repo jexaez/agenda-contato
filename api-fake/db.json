@@ -1,0 +1,28 @@
+{
+  "contatos": [
+    {
+      "id": 2,
+      "nome": "Ronnie",
+      "email": "escalantepost@gmail.com",
+      "telefone": "92999960506"
+    },
+    {
+      "nome": "jani",
+      "email": "exaezsa@gmail.com",
+      "telefone": "53565465",
+      "id": 1632851035288
+    },
+    {
+      "nome": "Maria",
+      "email": "maria@gmail.com",
+      "telefone": "7777-7777",
+      "id": 1632856174289
+    },
+    {
+      "nome": "Marga",
+      "email": "marga@gmail.com",
+      "telefone": "1111-1111",
+      "id": 1632952755124
+    }
+  ]
+}
